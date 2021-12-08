@@ -9,3 +9,9 @@ Let's use the pandas library to obtain and import data on weather conditions in 
 It is a good idea to do a few tests on your data to ensure that you understand how the columns are encoded and that everything appears to be in order. In Python, an easy approach to make such checks is to use the assert function to construct a few assertions. Python will report an error if an assertion fails.
 
 We can verify that the number of days for which we have data is a realistic number of days in a year. We can see that the maximum recorded temperature on each day is greater than the mean and minimum for that day, as are the recorded wind speeds. We may also make sure that all of the wind speeds are positive.
+
+**Refrences**
+
+This notebook is an element of the risk-engineering.org courseware. It can be distributed under the terms of the Creative Commons Attribution-ShareAlike licence.
+
+Author: Eric Marsden eric.marsden@risk-engineering.org.
